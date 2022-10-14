@@ -3,8 +3,8 @@
 ## DESCRIPTION
 learned some git commands from gwendalyn faraday.
 
-clone
-pull
-push
-commit
-add
+clone\n
+pull\n
+push\n
+commit\n
+add\n
